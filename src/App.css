@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.eachBeer {
+  display:flex;
+  padding: 20px;
+}
+.eachBeer img {
+  height: 20vh;
+}
+header {
+  background-color: blue;
+}
